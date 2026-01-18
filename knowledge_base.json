@@ -1,0 +1,49 @@
+{
+  "python": "Python is a high-level, interpreted programming language. Key features: dynamic typing, easy syntax, and extensive libraries. Learn basics: https://www.w3schools.com/python/. Example: print('Hello World!')",
+  
+  "flask": "Flask is a lightweight Python web framework for building web applications quickly. Docs: https://flask.palletsprojects.com/. Example: @app.route('/') defines a route for the homepage.",
+  
+  "django": "Django is a full-stack Python web framework. Features: ORM, admin interface, templating, security. Docs: https://www.djangoproject.com/",
+  
+  "machine learning": "Machine Learning (ML) uses data to train models for predictions. Common libraries: scikit-learn, TensorFlow, PyTorch. Example: from sklearn.linear_model import LinearRegression",
+  
+  "deep learning": "Deep Learning uses neural networks with multiple layers. Frameworks: TensorFlow, PyTorch. Example: tf.keras.models.Sequential([...])",
+  
+  "data structures": "Data structures organize data efficiently. Examples: List, Stack, Queue, Linked List, Tree, Graph, Hash Table. Practice implementing them in Python.",
+  
+  "algorithms": "Algorithms solve problems efficiently. Examples: Sorting (Bubble, Quick, Merge), Searching (Binary Search), Dynamic Programming (Knapsack, Fibonacci), Graph algorithms (Dijkstra, BFS, DFS).",
+  
+  "git": "Git is a version control system. Commands: git init, git add ., git commit -m 'message', git push. Docs: https://git-scm.com/",
+  
+  "linux": "Linux is an open-source OS. Commands: ls, cd, mkdir, rm, chmod, ps, top. Learn to use terminal for file management and process control.",
+  
+  "database": "Databases store structured data. Types: Relational (MySQL, PostgreSQL), NoSQL (MongoDB). Commands: SELECT, INSERT, UPDATE, DELETE, JOIN.",
+  
+  "sql": "SQL is a language to interact with databases. Example: SELECT * FROM users WHERE id=1; JOIN combines tables. Learn: https://www.w3schools.com/sql/",
+  
+  "web development": "Web development includes frontend (HTML, CSS, JS) and backend (Flask, Django, Node.js). Learn to create REST APIs and interactive UI.",
+  
+  "api": "API (Application Programming Interface) allows software to communicate. Example: REST API using Flask: @app.route('/data', methods=['GET'])",
+  
+  "html": "HTML defines structure of webpages. Tags: <p>, <div>, <a>, <img>. Example: <p>Hello World</p>",
+  
+  "css": "CSS styles HTML. Properties: color, font-size, display, flex, grid. Example: body { background-color: lightblue; }",
+  
+  "javascript": "JavaScript makes webpages interactive. Example: document.getElementById('demo').innerHTML = 'Hello';",
+  
+  "cloud": "Cloud computing provides remote computing resources. Services: AWS, Azure, GCP. Key concepts: EC2, S3, Lambda, VMs, containers.",
+  
+  "docker": "Docker allows containerization of apps. Commands: docker build, docker run, docker images. Learn: https://www.docker.com/",
+  
+  "kubernetes": "Kubernetes orchestrates containers. Concepts: pods, services, deployments, clusters. Docs: https://kubernetes.io/",
+  
+  "study tips": "Study in short focused sessions, take notes, revise daily, practice problems. Use Pomodoro technique and active recall.",
+  
+  "algorithms examples": "Sorting: BubbleSort, QuickSort, MergeSort. Searching: Linear Search, Binary Search. Dynamic Programming: Knapsack, Fibonacci.",
+  
+  "python tips": "Use list comprehensions, generators, and built-in functions to write clean Python code. Example: [x**2 for x in range(5)]",
+  
+  "flask tips": "Use app.run(debug=True) during development. Store secrets in environment variables. Use templates for dynamic HTML pages.",
+  
+  "ml tips": "Normalize your data, split into train/test, evaluate models using metrics like accuracy, precision, recall. Experiment with hyperparameters."
+}
